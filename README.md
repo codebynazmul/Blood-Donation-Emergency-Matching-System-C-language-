@@ -46,3 +46,11 @@ File Storage
 users.dat: Stores registered users (email and password).
 
 donors.dat: Stores donor information in the format: Name|Blood|Phone|Area.
+
+Requirements
+
+C Compiler (GCC/Clang/Visual Studio)
+
+Console/terminal access
+
+Windows or Linux/macOS terminal (supports cls or clear command automatically)

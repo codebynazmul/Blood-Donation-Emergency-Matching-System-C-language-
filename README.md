@@ -24,3 +24,17 @@ AURONIX account (team.auronix@gmail.com / AuRoNiX5) can view special notificatio
 Donor Management
 
 Add New Donor: Users can add new donors to the system (stored in memory and persisted in donors.dat).
+
+Built-in Donors
+
+The system comes with predefined donors for testing and demonstration:
+
+Abdur Rahman – A+, Dhanmondi
+
+Hakim – A+, Gulshan
+
+Munna – AB+, Uttara
+
+Hena – A+, Baridhara
+
+Rumana – AB+, Banani

@@ -20,3 +20,7 @@ Donation History: Track blood donation events (for admin/special account).
 Admin/Special Account
 
 AURONIX account (team.auronix@gmail.com / AuRoNiX5) can view special notifications and donation history.
+
+Donor Management
+
+Add New Donor: Users can add new donors to the system (stored in memory and persisted in donors.dat).

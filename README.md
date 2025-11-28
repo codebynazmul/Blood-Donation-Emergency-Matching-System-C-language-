@@ -38,3 +38,5 @@ Munna – AB+, Uttara
 Hena – A+, Baridhara
 
 Rumana – AB+, Banani
+
+Additional donors can be added interactively.

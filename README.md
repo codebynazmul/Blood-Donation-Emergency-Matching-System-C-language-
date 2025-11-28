@@ -16,3 +16,7 @@ Donor Search: Search donors by area.
 Notifications: Special notifications for the admin/special account.
 
 Donation History: Track blood donation events (for admin/special account).
+
+Admin/Special Account
+
+AURONIX account (team.auronix@gmail.com / AuRoNiX5) can view special notifications and donation history.

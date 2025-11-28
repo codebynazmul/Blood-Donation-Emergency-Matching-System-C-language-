@@ -40,3 +40,9 @@ Hena – A+, Baridhara
 Rumana – AB+, Banani
 
 Additional donors can be added interactively.
+
+File Storage
+
+users.dat: Stores registered users (email and password).
+
+donors.dat: Stores donor information in the format: Name|Blood|Phone|Area.
